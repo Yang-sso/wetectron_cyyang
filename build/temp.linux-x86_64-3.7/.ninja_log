@@ -1,0 +1,23 @@
+# ninja log v5
+2	21249	1614161884516858177	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/deform_conv_cuda.o	d531f6331ae8ec00
+2	21571	1614161884840857800	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/ROIPool_cuda.o	f1981d0b3f1b687b
+3	21823	1614161885088857511	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/ROIAlign_cuda.o	437bc6c781574201
+1	22136	1614161885404857143	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/nms.o	51b1d7aa05248d9
+3	22594	1614161885860856612	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/deform_pool_cuda.o	e079f4c542e45e5
+4	22735	1614161886000856449	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/SigmoidFocalLoss_cuda.o	e333d82075416081
+4	23088	1614161886356856035	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/deform_pool_kernel_cuda.o	598dd77ddd92bc70
+2	23426	1614161886696855639	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/deform_conv_kernel_cuda.o	a81391f99c752727
+1	37256	1614161900524839486	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cpu/ROIAlign_cpu.o	33703f07169c87a8
+1	37950	1614161901216838675	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cpu/nms_cpu.o	1b1f823056a1498f
+1	44186	1614161907448831362	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/vision.o	207cc152a9fa73e2
+4	12894	1614165797928374240	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/deform_conv_cuda.o	446638ae5c0bb08b
+5	12973	1614165798008374136	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/deform_pool_cuda.o	b29566bfe46a047d
+5	13273	1614165798308373744	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/SigmoidFocalLoss_cuda.o	e3a9113b8340263
+5	13858	1614165798896372975	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/ROIAlign_cuda.o	475a4e7425a3c130
+4	14346	1614165799380372343	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/ROIPool_cuda.o	d91f1cbcf72ab3aa
+5	14525	1614165799560372108	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/deform_pool_kernel_cuda.o	5f9485a174f686a9
+4	14542	1614165799576372087	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/nms.o	4534612eecc2db98
+4	15406	1614165800444370953	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cuda/deform_conv_kernel_cuda.o	c8bb6272b8cf7e8
+4	22774	1614165807812361327	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cpu/ROIAlign_cpu.o	6011fbf79c46a7cd
+3	24488	1614165809524359091	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/cpu/nms_cpu.o	45121a31a3c073d4
+2	29199	1614165814232352942	/home/cyyang/wetectron/build/temp.linux-x86_64-3.7/home/cyyang/wetectron/wetectron/csrc/vision.o	93af2ea7e01927ab
